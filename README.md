@@ -1,3 +1,1 @@
-# Odum and Odum 2000.
-Example 14.3 Model of Two Populations in Competitive Growth (INTERACT)
-pg. 219
+# Odum and Odum 2000. Modelling for all Scales: An Introduction to System Simulation
